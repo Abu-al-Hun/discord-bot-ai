@@ -32,7 +32,7 @@ El 5 araba is an intelligent Discord bot that uses Google's Gemini AI technology
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Abu-al-Hun/El-5-araba.git
+git clone https://github.com/Abu-al-Hun/discord-bot-ai.git
 cd El-5-araba
 ```
 

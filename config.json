@@ -1,0 +1,5 @@
+{
+  "token": "discord_bot_token",
+  "channelId": "channel_id",
+  "geminiApiKey": "gemini_api_key"
+} 

@@ -1,0 +1,26 @@
+{
+  "name": "ai",
+  "version": "1.0.0",
+  "description": "El 5 araba - Discord AI Bot",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "dev": "ts-node index.ts"
+  },
+  "keywords": ["discord", "bot", "ai", "gemini"],
+  "author": "Abu-al-Hun",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abu-al-Hun"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.24",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}

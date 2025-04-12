@@ -62,8 +62,7 @@ npm start
 
 ```
 El-5-araba/
-├── src/
-│   └── index.ts         # Main bot file
+│── index.ts         # Main bot file
 ├── config.json          # Configuration file
 ├── users.json           # User database
 ├── package.json         # Project and dependencies info
